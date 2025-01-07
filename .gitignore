@@ -1,0 +1,11 @@
+# Fichiers de configuration sensibles
+.env
+.env-local
+
+# dépendances
+vendor/
+/vendor */
+/vendor
+
+# .gitignore
+/vendor/
